@@ -7,5 +7,5 @@ A Heroku buildpack for ffmpeg with SSL support.
 Add the following to your `.buildpacks`:
 
 ```
-https://github.com/KrashStudio/buildpack-ffmpeg.git
+https://github.com/fongfan999/buildpack-ffmpeg.git
 ```
